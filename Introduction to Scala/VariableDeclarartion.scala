@@ -17,7 +17,7 @@ object VariableDeclarartion
      println(myVal2)
      
      // if we want to print it in same line use ;
-     //println(myVar1); println(myVar2); println(myVal1);   println(myVal2);b 
+     //println(myVar1); println(myVar2); println(myVal1); println(myVal2);
    }
   
 }
